@@ -1,0 +1,8 @@
+burger@potato#2@tomato#2@cucumber#1@bun#1
+frenchfries@potato#10
+sizzler@potato#20@tomato#50@onion#5
+poha@potato#1
+pizza@pizzabase#1@tomato#5@cheese#5
+wedges@potato#2
+pasta@tomato#10@pastasheets#1
+lasagna@pasta#5@tomato#12

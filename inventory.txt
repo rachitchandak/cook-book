@@ -1,0 +1,9 @@
+potato#35
+tomato#40
+onion#15
+cheese#20
+pizzabase#10
+bun#0
+carrot#10
+pastasheets#1
+pasta#0
