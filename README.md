@@ -39,5 +39,6 @@ The Perfect App for Cooking, you will have every recipe that you need!
 ## Installaton
 ```bash
     git clone https://github.com/rachitchandak/cook-book.git
+    cd cook-book/
     python3 main.py
 ```
