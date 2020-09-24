@@ -32,9 +32,9 @@ The Perfect App for Cooking, you will have every recipe that you need!
 ### Items Used:
 - This option helps us to get all the items we used to make something and then remove them from our inventory
 ### You Brought:
-- This option gives you an option to input items that you might have brought and want to add in the inventory.
+- This option helps us to input items we might have brought and want to add in the inventory.
 ### Add Recipe:
-- This option gives an option to add new recipes that you might want to.
+- This option is for adding new recipes that you might want to.
 
 ## Installaton
 ```bash
