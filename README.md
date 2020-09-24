@@ -44,4 +44,4 @@ The Perfect App for Cooking, you will have every recipe that you need!
 ```
 ## Screenshots
 
-[![CookBook](https://user-images.githubusercontent.com/66620273/94091556-29ba8480-fe36-11ea-8457-162459aa4a12.png)]
+![CookBook](https://user-images.githubusercontent.com/66620273/94091556-29ba8480-fe36-11ea-8457-162459aa4a12.png)
